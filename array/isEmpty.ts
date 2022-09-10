@@ -1,0 +1,1 @@
+export const isEmpty = (arr: Array<any>): Boolean => Array.isArray(arr) && arr.length === 0;

@@ -1,0 +1,1 @@
+export const after = (text: string, afterText: string): string => text.split(afterText)[1] ?? ''

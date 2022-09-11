@@ -1,1 +1,1 @@
-export const ucfirst = (text: String): String => `${text.charAt(0).toUpperCase()}${text.slice(1)}`;
+export const ucfirst = (text: string): string => `${text.charAt(0).toUpperCase()}${text.slice(1)}`;

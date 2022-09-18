@@ -1,1 +1,1 @@
-export const unique = (data: Array<string>): Array<string> => [...new Set(data)]
+export const unique = (values: Array<string>): Array<string> => [...new Set(values)]

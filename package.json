@@ -1,4 +1,7 @@
 {
+  "name": "tsutils",
+  "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "lint": "npx eslint .",
     "lint:fix": "npx eslint . --fix",
